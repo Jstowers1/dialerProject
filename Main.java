@@ -41,6 +41,5 @@ class Main {
         // myPanel.add(buttonLayout, BorderLayout.CENTER);
         myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         myFrame.setVisible(true);
-        // help
     }
 }
